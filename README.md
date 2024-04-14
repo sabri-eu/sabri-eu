@@ -1,5 +1,5 @@
 ### Salut 👋
-Je suis Sabri, étudiant au lycée Newton Enrea.
+Je suis Sabri, étudiant au lycée Newton Enrea en Terminale spécialité NSI - Mathématiques.
 <!--
 **sabri-eu/sabri-eu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
