@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Salut 👋
+Je suis Sabri, étudiant au lycée Newton Enrea.
 <!--
 **sabri-eu/sabri-eu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://t.bkit.co/w_661c35942ac27.gif" />
